@@ -1,3 +1,12 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+
 .container {
-  padding-top: 5%;
+  /*De la pagina de perro*/
+  margin-bottom: 3%;
+}
+
+.mainperro {
+  color: grey;
 }
