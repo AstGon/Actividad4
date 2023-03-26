@@ -1,5 +1,5 @@
 body {
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Oswald", sans-serif;
 }
 
 .container {
@@ -9,4 +9,18 @@ body {
 
 .mainperro {
   color: grey;
+}
+
+.subperro {
+  color: #8d4004;
+}
+
+.mainperro,
+.subperro {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #8d4004;
 }
