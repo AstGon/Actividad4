@@ -1,3 +1,27 @@
+body {
+  font-family: "Oswald", sans-serif;
+  margin: 5%;
+}
+
 .container {
-  padding-top: 5%;
+  /*De la pagina de perro*/
+  margin-bottom: 3%;
+}
+
+.mainperro {
+  color: grey;
+}
+
+.subperro {
+  color: #8d4004;
+}
+
+.mainperro,
+.subperro {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #8d4004;
 }
