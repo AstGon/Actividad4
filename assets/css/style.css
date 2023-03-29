@@ -1,6 +1,7 @@
 body {
   font-family: "Oswald", sans-serif;
   margin: 5%;
+  background-color: #e83283;
 }
 
 .container {
@@ -9,11 +10,11 @@ body {
 }
 
 .mainperro {
-  color: grey;
+  color: white;
 }
 
 .subperro {
-  color: #8d4004;
+  color: white;
 }
 
 .mainperro,
@@ -23,7 +24,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #8d4004;
+  color:#e83283;
 }
 
 /*Pagina individual de perro*/
