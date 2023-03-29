@@ -27,6 +27,12 @@ a {
   color:#e83283;
 }
 
+.iniciomenu{
+  text-decoration: none;
+  color:white; 
+  align-items: end;
+}
+
 /*Pagina individual de perro*/
 
 .bodyPerros{
