@@ -1,6 +1,7 @@
 body {
   font-family: "Oswald", sans-serif;
   margin: 5%;
+  background-color: #e83283;
 }
 
 .container {
@@ -9,11 +10,11 @@ body {
 }
 
 .mainperro {
-  color: grey;
+  color: white;
 }
 
 .subperro {
-  color: #8d4004;
+  color: white;
 }
 
 .mainperro,
@@ -23,5 +24,58 @@ body {
 
 a {
   text-decoration: none;
-  color: #8d4004;
+  color:#e83283;
+}
+
+.iniciomenu{
+  text-decoration: none;
+  color:white; 
+  align-items: end;
+}
+
+/*Pagina individual de perro*/
+
+.bodyPerros{
+  box-sizing: border-box;
+  margin: 0%;
+  font-size: small;
+  background-color: #e83283;
+}
+
+.container-title{
+  float: left;
+  width: 100%;
+  text-align: center;
+  border-bottom-style:outset;
+  
+}
+
+.container-img{
+  float: left;
+  width: 40%;
+  height: 100%;
+  padding-top: 2%;
+  padding-left: 2%;
+}
+
+.container-text{
+  float: left;
+  width: 60%;
+  height: 100%;
+  padding-top: 2%;
+  padding-left: 8%;
+}
+
+.imgPerros{
+  border-style: double;
+  border-radius: 10%;
+}
+
+th{
+  font-weight: normal,lighter;
+  
+}
+
+th, td, h1{
+  color: white;
 }
