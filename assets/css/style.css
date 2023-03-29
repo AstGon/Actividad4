@@ -29,10 +29,10 @@ a {
 /*Pagina individual de perro*/
 
 .bodyPerros{
-
   box-sizing: border-box;
   margin: 0%;
   font-size: small;
+  background-color: #e83283;
 }
 
 .container-title{
@@ -48,6 +48,7 @@ a {
   width: 40%;
   height: 100%;
   padding-top: 2%;
+  padding-left: 2%;
 }
 
 .container-text{
@@ -58,6 +59,16 @@ a {
   padding-left: 8%;
 }
 
+.imgPerros{
+  border-style: double;
+  border-radius: 10%;
+}
+
 th{
   font-weight: normal,lighter;
+  
+}
+
+th, td, h1{
+  color: white;
 }
